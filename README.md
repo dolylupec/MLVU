@@ -1,6 +1,6 @@
 # Machine Learning for Visual Understanding
 
-Repository for summary and code of [Machine Learning for Visual Understanding] course during the undergraduate internship at the Visual Information Processing Lab, SNU GSDS.
+Repository for summary and code of [Machine Learning for Visual Understanding] course during the undergraduate internship at Visual Information Processing Lab, SNU GSDS.
 
 
 This course was held at Seoul National University, Graduate School of Data Science. (Spring 2021)
