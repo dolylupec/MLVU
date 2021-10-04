@@ -1,6 +1,6 @@
 # Machine Learning for Visual Understanding
 
-This lecture was held at Seoul National University, Graduate School of Data Science on Spring 2021.
+This lecture was held at Seoul National University, Graduate School of Data Science (Spring 2021).
 
 ## Summary
 
