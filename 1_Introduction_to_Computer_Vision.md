@@ -4,7 +4,7 @@
 컴퓨터 : image들이 여러장(sequence) 이어져있음 
 
 - video : image의 sequence
-- image :  가로/세로로 2차원 픽셀 매트릭스. 각각의 값은 3~4 개의 인코딩된 숫자 : 숫자들 나열되어있는 것
+- image :  가로/세로로 2차원 pixel matrix. 각각의 값은 3~4 개의 인코딩된 숫자 : 숫자들 나열되어있는 것
 - input : 컴퓨터가 이해하는 비디오, output : 사람이 이해하는 비디오
     - 이 둘을 연결시켜주는 수학적인 계산 모델 만들기 : Video Understanding의 핵심  
 
