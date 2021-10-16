@@ -10,7 +10,7 @@
 
 
 ex: 아이들이 놀고 있는 공원에서 범죄자들을 쫓는 경찰들
-Video Understanding : 이해하기 위해 여러단계의 추론을 해야되어서 어려움
+### Video Understanding : 이해하기 위해 여러단계의 추론을 해야되어서 어려움
 - Describing the content
 - inferring the central topics
 - describing the structure and style
