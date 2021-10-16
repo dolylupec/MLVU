@@ -1,6 +1,6 @@
 # Lecture 1. Introduction to Computer Vision
 
-인간에게는 직관 능력 있음: 딱 보면 '피겨스케이팅'이라고 알아봄
+인간에게는 직관 능력 있음: 딱 보면 '피겨스케이팅'이라고 알아봄  
 컴퓨터 : image들이 여러장(sequence) 이어져있음 
 
 - video : image의 sequence
