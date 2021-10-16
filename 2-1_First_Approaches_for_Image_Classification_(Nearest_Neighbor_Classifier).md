@@ -6,7 +6,7 @@
 
 - scale variation : 얼마나 큰지 알 수 없다 (전체 사진, 부분 사진)
 - viewpoint variation : 물체를 바라보는 각도에 따라 모양이 다름 ( 픽셀 단위로 보면 완전히 달라보임)
-- background clutter : 보호색 위에 있으면 놓칠 수 있음 ?!?!?
+- background clutter : 보호색 위에 있으면 놓칠 수 있음 
 - illumination : 조명  밤/낮의 사진의 픽셀이 완전 다름
 - occlusion :  가려짐. 영상은 가려진 경우가 매우 많음, 사람은 뒤에 뭐가 있는지 알지만, 컴퓨터가 어떻게 알게 할 것인가? ?!?!
 - deformation : 모양이 바뀌는 것(ex: 같은 사람, 같은 장소에서 완전 다른 자세), rule based로 학습시킬 수 없음(같은 사람인 것을 어떻게 학습시킬 것인가?)
@@ -17,7 +17,7 @@ image를 classify하고 싶다
 어떻게 짤까? 
 시도 : 고양이를 인지시키고 싶음
 - find edges(색이 바뀌는 곳에서 선을 따기) → 흑백그림 (0,1) : 훨씬 단순해짐
-- find corners : ?? (고양이가 팔 하나 들면 완전히 다른 그림이 나올 것임)
+- find corners :고양이가 팔 하나 들면 완전히 다른 그림이 나올 것임
 
 ### Machine Learning을 도입 (Machine Learning : Data-driven Approach)
 - data계속 보여줘서 알아서 패턴 찾게 (사람이 직접 묘사 안함)
