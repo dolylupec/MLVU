@@ -1,6 +1,6 @@
 # Lecture 1. Introduction to Computer Vision
 
-인간에게는 직관 능력 있음: 딱 보면 '피겨스케이팅'이라고 알아봄
+인간에게는 직관 능력 있음: 딱 보면 '피겨스케이팅'이라고 알아봄  
 컴퓨터 : image들이 여러장(sequence) 이어져있음 
 
 - video : image의 sequence
@@ -10,7 +10,8 @@
 
 
 ex: 아이들이 놀고 있는 공원에서 범죄자들을 쫓는 경찰들
-Video Understanding : 이해하기 위해 여러단계의 추론을 해야되어서 어려움
+### Video Understanding
+- 이해하기 위해 여러단계의 추론을 해야되어서 어려움
 - Describing the content
 - inferring the central topics
 - describing the structure and style
